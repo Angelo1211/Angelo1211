@@ -1,6 +1,6 @@
 ### 🚀 Hello there! I'm Angel. 🚀
 
- - 💼 I'm an Associate Graphics Programmer at Rockstar North.
+ - 💼 I'm an Associate Graphics Programmer at [Rockstar North](https://www.rockstargames.com/careers/).
  - ☀️ Unsurprisingly obsessed with everything light related.
  - 🐱 Please send me your cat pics [here.](https://twitter.com/aortizelguero)
  - 🚀 Also, [rockets](https://media.wired.com/photos/5933242f26780e6c04d2e81b/master/w_1600%2Cc_limit/ASTP_Saturn_IB.jpg) are the coolest things we've built.
